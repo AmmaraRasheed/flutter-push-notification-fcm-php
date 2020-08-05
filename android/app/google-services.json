@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "608725521349",
+    "firebase_url": "https://pdfproject-9db40.firebaseio.com",
+    "project_id": "pdfproject-9db40",
+    "storage_bucket": "pdfproject-9db40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608725521349:android:75d6008195c2e79c07b1ac",
+        "android_client_info": {
+          "package_name": "com.example.push_notification_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608725521349-uujs2aq267ivchpub3iloan30seqojuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzXannZzjLHLQ71T3bEDKX88rSyURvAmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608725521349-uujs2aq267ivchpub3iloan30seqojuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
